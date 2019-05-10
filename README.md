@@ -26,4 +26,8 @@ Because the need of winsock and Windows environment, this uses cl tool for the c
 * Run the client.exe manually or by CMD as in below. 
 
 		start client.exe
+		
+* Evaluate by writing content into the client window. If you receive the same input given at the client-end, as the output for the client-end, program works fine. 
+
+You can do your own modifications to the program for the understanding, such as changing the response message at the server-end to the client-end without just sending the received message that have done here.    
 	
